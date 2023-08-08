@@ -12,7 +12,7 @@ export const Navbar = () => {
 			<div className='wrapper'>
 				<div className='left'>
 					<div className='item'>
-						<img src='/img/en.webp' alt='' />
+						<img src='/img/en.webp' alt='english' />
 						<KeyboardArrowDownIcon />
 					</div>
 					<div className='item'>
