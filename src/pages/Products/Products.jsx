@@ -1,3 +1,5 @@
+import "./Products.scss"
+
 export const Products = () => {
-	return <div>Products</div>
+	return <div className="products">Products</div>
 }
