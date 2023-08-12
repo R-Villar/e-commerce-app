@@ -12,7 +12,6 @@ export const List = () => {
 			oldPrice: 19,
 			price: 12,
 		},
-
 		{
 			id: 2,
 			img: "https://images.pexels.com/photos/2065200/pexels-photo-2065200.jpeg?auto=compress&cs-tinysrgb&w-1600",
